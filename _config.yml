@@ -2,12 +2,13 @@ name: Min-imal
 favicon: null
 layout_spectrum: 0.8044025271665305
 typography_spectrum: 0.922452628146857
+title: Min-imal
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-65158648-3
   facebook: null
   twitter: null
 opengraph:
