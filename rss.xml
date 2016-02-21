@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Min-imal]]></title>
         <description><![CDATA[Min-imal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/min-imal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 06:52:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 07:34:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/min-imal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.girlsallaround.com/wp-content/uploads/2015/06/minimal19.jpg">]]></description>
+            <link>http://www.girlsallaround.com/minimal-normcore-girl/</link>
+            <guid isPermaLink="false">6d734ae9-44ae-4fa6-af87-327d9e8a4976</guid>
+            <pubDate>Sun, 21 Feb 2016 07:34:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[210216#1]]></title>
-            <description><![CDATA[<article><h1>210216#1</h1><p>Jenny and the Scallywags live @ single concert, Central Eastville</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/306ed566e391fa15880c992ce62ceb598f19d2da.jpg"></article>]]></description>
-            <link>undefined000a9f1f-c4d7-4a70-bd99-9c574ad4c020/index.html</link>
+            <description><![CDATA[<article><h1>210216#1</h1><p>Jenny and the Scallywags live @ single concert, Central Eastville</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/761b8935d0ad3458f29a838b6c0acf753a7a16a5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/min-imal/000a9f1f-c4d7-4a70-bd99-9c574ad4c020/index.html</link>
             <guid isPermaLink="false">000a9f1f-c4d7-4a70-bd99-9c574ad4c020</guid>
             <pubDate>Sun, 21 Feb 2016 06:51:35 GMT</pubDate>
         </item>
